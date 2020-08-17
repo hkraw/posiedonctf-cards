@@ -1,3 +1,4 @@
 ### link to the writeup.
 
-### https://hackmd.io/@HKraw/Hk32JoaZD
+### https://blog.harshkhuha.in/
+
